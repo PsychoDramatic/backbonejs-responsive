@@ -2,7 +2,13 @@
 Everything you need to rapidly prototype your brilliant web app.
 
 # Installation
-    $ git clone
+    $ git clone https://github.com/erictherobot/backbonejs-responsive.git
+    $ cd /backbonejs-responsive
+    $ sudo npm install express
+    $ node build/server
+After this is completed you can visit [http://localhost:1337](http://localhost:1337) and start hacking away! 
+
+### Many thanks to the original authors listed below for helping me put this project together. 
 
 # Backbone boilerplate
 [http://backboneboilerplate.com](http://backboneboilerplate.com) is a community driven effort to help developers learn and rapidly deploy single page web applications.
