@@ -1,3 +1,8 @@
+# Backbone JS / Twitter Bootstrap / Responsive Design - WIP
+Everything you need to rapidly prototype your brilliant web app.
+
+# Installation
+    $ git clone
 
 # Backbone boilerplate
 [http://backboneboilerplate.com](http://backboneboilerplate.com) is a community driven effort to help developers learn and rapidly deploy single page web applications.
